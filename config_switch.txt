@@ -1,0 +1,6 @@
+hostname SW-B204
+vlan 10
+name ADMIN
+vlan 20
+name ELEVES
+
